@@ -6,7 +6,7 @@ const {spawn} = require('child_process');
 const port = 3000;
 
 const storage = new Storage({
-  keyFilename: "./reserverecord-b2de5-firebase-adminsdk-it3bz-1d2e467dab.json"
+  keyFilename: "./key.json"
 });
 
 let bucketName = "gs://reserverecord-b2de5.appspot.com"
