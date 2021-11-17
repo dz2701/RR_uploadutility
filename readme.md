@@ -14,3 +14,4 @@ node index.js
 ```
 to run export utility. 
 
+THIS WILL NOT WORK WITHOUT THE PRIVATE SERVER KEY. PLEASE ASK MANAGER FOR KEY.
